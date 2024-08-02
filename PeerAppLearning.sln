@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerAppLearning", "PeerAppLearning\PeerAppLearning.csproj", "{1D67E226-2633-46E3-82F8-619F8189D418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerApp.Azlayer", "PeerApp.Azlayer\PeerApp.Azlayer.csproj", "{42702C2E-EB6E-4039-A949-4798B79A91A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D67E226-2633-46E3-82F8-619F8189D418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D67E226-2633-46E3-82F8-619F8189D418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D67E226-2633-46E3-82F8-619F8189D418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D67E226-2633-46E3-82F8-619F8189D418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42702C2E-EB6E-4039-A949-4798B79A91A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42702C2E-EB6E-4039-A949-4798B79A91A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42702C2E-EB6E-4039-A949-4798B79A91A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42702C2E-EB6E-4039-A949-4798B79A91A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A0D8003-889F-426A-9BF2-8A0FF4E2B4C0}
+	EndGlobalSection
+EndGlobal
